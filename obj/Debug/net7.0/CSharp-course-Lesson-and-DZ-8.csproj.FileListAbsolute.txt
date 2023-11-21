@@ -1,0 +1,14 @@
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.exe
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.deps.json
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.runtimeconfig.json
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.dll
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\bin\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.AssemblyInfoInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.AssemblyInfo.cs
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.csproj.CoreCompileInputs.cache
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.dll
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\refint\CSharp-course-Lesson-and-DZ-8.dll
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.pdb
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\CSharp-course-Lesson-and-DZ-8.genruntimeconfig.cache
+C:\Users\nik88\OneDrive\Desktop\C#\CSharp-course-Lesson-and-DZ-8\obj\Debug\net7.0\ref\CSharp-course-Lesson-and-DZ-8.dll
